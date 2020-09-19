@@ -1,6 +1,6 @@
 # Avatar World
 
-
+<img align="center" src="https://raw.githubusercontent.com/danicelistobon/Avatar_World/master/public/images/avatar_world.jpg" width="100%"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
